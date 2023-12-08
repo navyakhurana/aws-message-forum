@@ -26,7 +26,15 @@ This project will be a fully-serverless application with following architecture.
 
 ![Architecture](https://github.com/tkang/amplify-forum/blob/main/amplify-architecture.png?raw=true)
 
-### Steps Overview
+## Team Members:
+Name | Roll No.
+---------------
+Navya Khurana | 2021hs70014
+Ayush Behl | 2021hs70013
+Sudhit Jain | 2021hs70038
+Kartik Kapoor | 2021hs70005
+
+## Steps Overview
 
 - Next.js application
 - Web application Hosting
@@ -71,7 +79,5 @@ Before we start, please install
 - npm v5.x or later
 - git v2.14.1 or later
 
-On a terminal, we will run Amplify CLI to create a infrastructure, start
-Next.js application on a local machine, and test application on a
-browser.
+
 
