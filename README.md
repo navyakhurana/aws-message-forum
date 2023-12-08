@@ -16,15 +16,13 @@ We will then use Amplify CLI to set up AWS Cloud environment and use Amplify JS 
 
 This project will be a fully-serverless application with following architecture.
 
-**NOTE** : _Following this guide will create resources on AWS and it could incur some costs. The cost will most likely be under the monthly free-tier limit. At the end of this guide we will show you how to delete the resource._ [Removing Services](#deleting-the-amplify-project-and-all-services)
+[Application URL](https://dev.d2gyu8pz49zp5v.amplifyapp.com/)
 
-This hands-on lab is expected to be done in 2 to 4 hours
+### Demo Video
 
-[Demo](https://dev.d2lf8ywg8xsqzo.amplifyapp.com)
+![Demo](https://github.com/navyakhurana/aws-message-forum/blob/main/P1_CCAssignment_Demo%20Video.mp4)
 
 ### Architecture
-
-This guide will build a fully-serverless application with following architecture.
 
 ![Architecture](https://github.com/tkang/amplify-forum/blob/main/amplify-architecture.png?raw=true)
 
