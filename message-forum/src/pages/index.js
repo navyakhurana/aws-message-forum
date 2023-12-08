@@ -1,6 +1,8 @@
 import Head from "next/head";
+import { withAuthenticator } from "@aws-amplify/ui-react";
+import '@aws-amplify/ui-react/styles.css';
 
-function Home() {
+function Home({signOut}) {
   return (
     <div>
       <Head>
@@ -24,6 +26,7 @@ function Home() {
             </div>
           </div>
         </main>
+        <button onClick={signOut}>Sign out</button>
       </div>
 
       <footer></footer>
@@ -31,4 +34,4 @@ function Home() {
   );
 }
 
-export default Home;
+export default withAuthenticator(Home);

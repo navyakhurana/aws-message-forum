@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-messageforum-dev-130619-authRole",
+      "UnauthRoleArn": "arn:aws:iam::098911247092:role/amplify-messageforum-dev-130619-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::098911247092:role/amplify-messageforum-dev-130619-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-messageforum-dev-130619-deployment",
+      "UnauthRoleName": "amplify-messageforum-dev-130619-unauthRole",
+      "StackName": "amplify-messageforum-dev-130619",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:098911247092:stack/amplify-messageforum-dev-130619/7d5ae610-959c-11ee-a736-0e1501767981",
+      "AmplifyAppId": "d2gyu8pz49zp5v"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2gyu8pz49zp5v",
+          "type": "manual"
+        }
+      },
+      "auth": {
+        "messageforum7be7365a": {}
+      }
+    }
+  }
+}
