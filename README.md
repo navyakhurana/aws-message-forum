@@ -8,6 +8,15 @@ Application we will build is going to be a Reddit-like message forum.
 
 Once users follow this guide, they will have a working application running on AWS.
 
+## Team Members:
+Kartik Kapoor | 2021hs70005
+BITS ID     | Name
+----------  | -----
+2021hs70014 | Navya Khurana
+2021hs70013 | Ayush Behl
+2021hs70004 | Kartik Kapoor
+2021hs70038 | Sudhit Jain
+
 ## Overview
 
 We will create a new project using Create Next App.
@@ -26,15 +35,7 @@ This project will be a fully-serverless application with following architecture.
 
 ![Architecture](https://github.com/tkang/amplify-forum/blob/main/amplify-architecture.png?raw=true)
 
-## Team Members:
-Name | Roll No.
----------------
-Navya Khurana | 2021hs70014
-Ayush Behl | 2021hs70013
-Sudhit Jain | 2021hs70038
-Kartik Kapoor | 2021hs70005
-
-## Steps Overview
+### Steps Overview
 
 - Next.js application
 - Web application Hosting
