@@ -26,13 +26,7 @@ This project will be a fully-serverless application with following architecture.
 
 ![Architecture](https://github.com/tkang/amplify-forum/blob/main/amplify-architecture.png?raw=true)
 
-### Required Background / Level
-
-This guide has been made for front-end and back-end developers who want to learn more about building a full-stack serverless application on AWS.
-
-Having knowledge in React and GraphQL is helpful, but not necessary.
-
-### Topics we will cover
+### Steps Overview
 
 - Next.js application
 - Web application Hosting
