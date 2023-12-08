@@ -3,7 +3,6 @@
 ![AmplifyForum](https://github.com/tkang/amplify-forum/blob/main/Amplify_Forum.jpg?raw=true)
 
 ## Team Members:
-Kartik Kapoor | 2021hs70005
 BITS ID     | Name
 ----------  | -----
 2021hs70014 | Navya Khurana
@@ -23,7 +22,7 @@ This project will be a fully-serverless application with following architecture.
 
 ### Demo Video
 
-![Demo](https://github.com/navyakhurana/aws-message-forum/blob/main/P1_CCAssignment_Demo%20Video.mp4)
+![Demo](https://github.com/navyakhurana/aws-message-forum/blob/main/P2_CCAssignment_Demo%20Video.mp4)
 
 ### Architecture
 
