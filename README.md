@@ -2,12 +2,6 @@
 
 ![AmplifyForum](https://github.com/tkang/amplify-forum/blob/main/Amplify_Forum.jpg?raw=true)
 
-This hands-on lab will build a full-stack serverless application on AWS using Amplify, Next.js, GraphQL
-
-Application we will build is going to be a Reddit-like message forum.
-
-Once users follow this guide, they will have a working application running on AWS.
-
 ## Team Members:
 Kartik Kapoor | 2021hs70005
 BITS ID     | Name
