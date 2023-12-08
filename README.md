@@ -1,7 +1,5 @@
 # AWS Simple Message Forum
 
-[한국어](README_ko.md)
-
 ![AmplifyForum](https://github.com/tkang/amplify-forum/blob/main/Amplify_Forum.jpg?raw=true)
 
 This hands-on lab will build a full-stack serverless application on AWS using Amplify, Next.js, GraphQL
