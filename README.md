@@ -22,7 +22,7 @@ This project will be a fully-serverless application with following architecture.
 
 ### Demo Video
 
-![Demo](https://github.com/navyakhurana/aws-message-forum/blob/main/P2_CCAssignment_Demo%20Video.mp4)
+![Demo](https://github.com/navyakhurana/aws-message-forum/blob/main/P2_CCAssignment_DemoVideo.mp4)
 
 ### Architecture
 
