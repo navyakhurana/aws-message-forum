@@ -1,6 +1,6 @@
 # AWS Simple Message Forum
 
-![AmplifyForum](https://github.com/tkang/amplify-forum/blob/main/Amplify_Forum.jpg?raw=true)
+![AmplifyForum](https://github.com/navyakhurana/aws-message-forum/blob/main/message-forum/Amplify_Forum.jpg)
 
 ## Team Members:
 BITS ID     | Name
