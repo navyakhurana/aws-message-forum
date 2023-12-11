@@ -26,7 +26,7 @@ This project will be a fully-serverless application with following architecture.
 
 ### Architecture
 
-![Architecture](https://github.com/tkang/amplify-forum/blob/main/amplify-architecture.png?raw=true)
+![Architecture](https://github.com/navyakhurana/aws-message-forum/blob/main/message-forum/amplify-architecture.png)
 
 ### Steps Overview
 
